@@ -6,6 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 we thought creating a simple calculator is a way to represent a good functional simple app.
+this is not a pro version of the calculator.
 this app will be update in near feuture so we can finally share it with u guys.
 
 Link: https://www.youtube.com/watch?v=l4bLPfS1uik
