@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-we thought creating a simple calculator is a way to represent a good functional simple app.
+
 
 Link: https://www.youtube.com/watch?v=l4bLPfS1uik
 
